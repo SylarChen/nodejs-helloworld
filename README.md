@@ -30,3 +30,13 @@ https://blog.risingstack.com/your-first-node-js-http-server/
 2. npm install
 3. node handlebar.js.js
 4. check http://localhost:3003/
+
+#Express return static html
+https://expressjs.com/en/starter/static-files.html
+
+## express-static-html-example
+1. cd src
+2. npm install
+3. node static.js
+4. check http://localhost:3004/index.html
+5. check http://localhost:3004/haha/index.html
